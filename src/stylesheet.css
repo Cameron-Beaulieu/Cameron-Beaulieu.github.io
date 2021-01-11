@@ -34,9 +34,13 @@ html{
     background-color: #F0FFFF;
 }
 
+#navbar a{
+    text-decoration: none;
+}
+
 #sideBar{
     width: 400px;
-    height: 900px;
+    height: 100%;
     background-color: black;
     margin-left: 0px;
     justify-content: center;
@@ -44,7 +48,7 @@ html{
 }
 
 #headshot{
-    margin-bottom: 200px;
+    margin-bottom: 150px;
     width: 300px;
     height: auto;
     margin-left: auto;
@@ -54,7 +58,7 @@ html{
     border-color: #F0FFFF;
 }
 
-#name{
+#name, #degree {
     color: #F0FFFF;
     text-align: center;
 }
@@ -89,9 +93,33 @@ html{
     padding-top: 5%;
 }
 
-#socialMedia:hover{
-    color: #051094;
-    transition: 1s;
+
+#github, #linkedin, #email, #resume{
+visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+#githubIcon:hover #github{
+    visibility: visible;
+}
+
+#linkedinIcon:hover #linkedin{
+    visibility: visible;
+}
+
+#emailIcon:hover #email{
+    visibility: visible;
+}
+
+#resumeIcon:hover #resume{
+    visibility: visible;
 }
 
 #catchLine{
