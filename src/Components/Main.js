@@ -11,7 +11,7 @@ function Main() {
                 <h2 id="degree">Second Year CS Student @ Queen's University</h2>
             </div>
             <div id="mainSection">
-                <p id="catchLine">Code Turns My Dreams Into Reality, Starting With Nothing And Building A Work Of Art</p>
+                <p id="catchLine">Coding Dreams Into Reality</p>
                 <p>Hey, there! Welcome to my website, how's your day going?
                 Anyways, let's get through the introductions so we can get to the actual interesting
                 parts of this website.</p>
