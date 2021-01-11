@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Cameron-Beaulieu.github.io/static/css/main.5008b108.chunk.css",
+    "main.js": "/Cameron-Beaulieu.github.io/static/js/main.810164e7.chunk.js",
+    "main.js.map": "/Cameron-Beaulieu.github.io/static/js/main.810164e7.chunk.js.map",
+    "runtime-main.js": "/Cameron-Beaulieu.github.io/static/js/runtime-main.82f4651e.js",
+    "runtime-main.js.map": "/Cameron-Beaulieu.github.io/static/js/runtime-main.82f4651e.js.map",
+    "static/js/2.8dfccedd.chunk.js": "/Cameron-Beaulieu.github.io/static/js/2.8dfccedd.chunk.js",
+    "static/js/2.8dfccedd.chunk.js.map": "/Cameron-Beaulieu.github.io/static/js/2.8dfccedd.chunk.js.map",
+    "static/js/3.fc228190.chunk.js": "/Cameron-Beaulieu.github.io/static/js/3.fc228190.chunk.js",
+    "static/js/3.fc228190.chunk.js.map": "/Cameron-Beaulieu.github.io/static/js/3.fc228190.chunk.js.map",
+    "index.html": "/Cameron-Beaulieu.github.io/index.html",
+    "static/css/main.5008b108.chunk.css.map": "/Cameron-Beaulieu.github.io/static/css/main.5008b108.chunk.css.map",
+    "static/js/2.8dfccedd.chunk.js.LICENSE.txt": "/Cameron-Beaulieu.github.io/static/js/2.8dfccedd.chunk.js.LICENSE.txt",
+    "static/media/Cam.f793a55f.jpg": "/Cameron-Beaulieu.github.io/static/media/Cam.f793a55f.jpg",
+    "static/media/board-game.576ed711.png": "/Cameron-Beaulieu.github.io/static/media/board-game.576ed711.png",
+    "static/media/chess.6c6033bd.png": "/Cameron-Beaulieu.github.io/static/media/chess.6c6033bd.png",
+    "static/media/coding.403caa3a.png": "/Cameron-Beaulieu.github.io/static/media/coding.403caa3a.png",
+    "static/media/compsa.badac1c2.png": "/Cameron-Beaulieu.github.io/static/media/compsa.badac1c2.png",
+    "static/media/email.792ef22f.png": "/Cameron-Beaulieu.github.io/static/media/email.792ef22f.png",
+    "static/media/esports.1aeb8147.jpg": "/Cameron-Beaulieu.github.io/static/media/esports.1aeb8147.jpg",
+    "static/media/karate.ce34d43d.png": "/Cameron-Beaulieu.github.io/static/media/karate.ce34d43d.png",
+    "static/media/playing-cards.18af9543.png": "/Cameron-Beaulieu.github.io/static/media/playing-cards.18af9543.png",
+    "static/media/running.bc5d1d4d.png": "/Cameron-Beaulieu.github.io/static/media/running.bc5d1d4d.png",
+    "static/media/swypelogored.122ac908.png": "/Cameron-Beaulieu.github.io/static/media/swypelogored.122ac908.png",
+    "static/media/veil.fc94990f.png": "/Cameron-Beaulieu.github.io/static/media/veil.fc94990f.png",
+    "static/media/video-camera.14741fd1.png": "/Cameron-Beaulieu.github.io/static/media/video-camera.14741fd1.png",
+    "static/media/video-game-controller.157f12ad.png": "/Cameron-Beaulieu.github.io/static/media/video-game-controller.157f12ad.png",
+    "static/media/weightlifting.72c01034.png": "/Cameron-Beaulieu.github.io/static/media/weightlifting.72c01034.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f4651e.js",
+    "static/js/2.8dfccedd.chunk.js",
+    "static/css/main.5008b108.chunk.css",
+    "static/js/main.810164e7.chunk.js"
+  ]
+}
