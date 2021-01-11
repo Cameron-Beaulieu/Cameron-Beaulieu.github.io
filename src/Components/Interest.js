@@ -1,8 +1,8 @@
-function Interest({icon,title,line}){
+function Interest({icon,title}){
     return (
-        <div className = {line}>
-            <img className = "interest-image" src = {icon}/>
-            <p className = "interest-text">{title}</p>
+        <div className = "interestSet">
+            <img className = "interestImage" src = {icon}/>
+            <p className = "interestText">{title}</p>
         </div>
     )
 }

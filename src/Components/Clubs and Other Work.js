@@ -12,11 +12,13 @@ function ClubsStack() {
         [esports, "Queen's Esports Association", "I competeted for and captained the League of Legends team as part of the Queen's Esports association against various universities across Canada. In this role I organized practices with other team members and was the top player for the team.", "https://www.facebook.com/Queensesports/", "Queen's Esports Association on Facebook"]
     ]
     return (
-        <div id = "clubs">
+        <div id="clubsAndOthers">
             <h1 className="title">Clubs I'm Apart Of</h1>
-            {clubs.map((club) =>
-                <Club image={club[0]} title={club[1]} description={club[2]} link={club[3]} linkName={club[4]} />
-            )}
+            <div id="clubs">
+                {clubs.map((club) =>
+                    <Club image={club[0]} title={club[1]} description={club[2]} link={club[3]} linkName={club[4]} />
+                )}
+            </div>
         </div>
     )
 }

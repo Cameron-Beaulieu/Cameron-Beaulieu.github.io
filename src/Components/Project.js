@@ -1,17 +1,17 @@
-function Project({banner, video, title, description, link, tags, slideShow}){
-    const projectTags = tags.map((tag) => 
-        <span className = "tech-tag">{tag}</span>
-    ); 
-    return(
-        <div class = "project">
-            <img src={banner} alt = "Project Banner" className = "banner" />
+function Project({ banner, video, title, description, link, tags, slideShow }) {
+
+    return (
+        <div class="project">
+            <img src={banner} alt="Project Banner" className="projectBanner" />
             {video}
             {slideShow}
-            <div className = "project-title">{title}</div>
-            <div className = "project-description">{description}</div>
-            <a href = {link} className = "project-link"> Check Out The Project!</a>
-            <div className = "project-tags">
-                {projectTags}
+            <div className="projectTitle">{title}</div>
+            <div className="projectDescription">{description}</div>
+            <a href={link} className="projectLink"> Check Out The Project!</a>
+            <div className="projectTags">
+                {tags.map((tag) =>
+                    <span className="techTag">{tag}</span>
+                )}
             </div>
         </div>
     )

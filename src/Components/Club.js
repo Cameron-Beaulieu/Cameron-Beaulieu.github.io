@@ -1,10 +1,12 @@
-function Club({image,title,description,link,linkName}){
+function Club({ image, title, description, link, linkName }) {
     return (
-        <div className = "club">
-        <img src = {image} alt = "Club Photo" />
-        <span className = "club-title">{title}</span>
-        <p className = "club-description">{description}</p>
-        <a className = "club-link" href = {link}>{linkName}</a>
+        <div className="club">
+            <img className="clubPhoto" src={image} alt="Club Photo" />
+            <div className="clubInfo">
+                <span className="clubTitle">{title}</span>
+                <p className="clubDescription">{description}</p>
+                <a className="clubLink" href={link}>{linkName}</a>
+            </div>
         </div>
     )
 }
